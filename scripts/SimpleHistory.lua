@@ -40,7 +40,7 @@ local o = {
 	delete_incognito_entry = true, --true so that the file that had incognito mode triggered on gets removed from history automatically, false keeps the file in history that incognito mode triggered on
 	restore_incognito_entry = 'always', --'none' for disabled, 'deleted-restore' so that the the file that was removed when entering incognito automtically gets restored, 'always' so that exiting incognito_mode always immediately updates entry into history
 	history_incognito_mode_keybind=[[
-	["ctrl+H"]
+	["ctrl+shift+H"]
 	]], --Triggers incognito mode. When enabled files played wont be added to history until this mode is disabled.
 	
 	-----Logging Settings-----

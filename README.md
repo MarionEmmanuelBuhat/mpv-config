@@ -11,7 +11,6 @@ My mpv configuration for self reminder
     - SmartCopyPaste
     - SimpleHistory
     - SimpleBookmark
-    - SimpleUndo
     - UndoRedo
 - [mpv-file-browser](https://github.com/CogentRedTester/mpv-file-browser)
 - [mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
