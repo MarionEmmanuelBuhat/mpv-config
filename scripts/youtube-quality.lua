@@ -14,7 +14,7 @@ local assdraw = require 'mp.assdraw'
 
 local opts = {
     --key bindings
-    toggle_menu_binding = "ctrl+f",
+    toggle_menu_binding = "ctrl+alt+f",
     up_binding = "UP",
     down_binding = "DOWN",
     select_binding = "ENTER",
